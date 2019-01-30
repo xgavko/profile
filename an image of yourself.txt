@@ -1,0 +1,5 @@
+an image of yourself
+a header and sub-header with your name and your job title (you can put programmer now 💻)
+a description of yourself
+a list of your social links
+a table showing your projects, favorite movies/programming languages/sport teams/recipes, etc. whatever you want.
